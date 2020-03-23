@@ -12,6 +12,11 @@ Algorithm you should know before system design.
 - Reverse index
 - Rsync algorithm
 - Trie algorithm
+- Merkle trees
+- Consistent Hashing
+- Count-Min Sketch 
+- Skip Lists	
+- Rate-limit
 
 ### Bloom filter
 A Bloom filter is a data structure designed to tell you, rapidly and memory-efficiently, whether an element is present in a set.
